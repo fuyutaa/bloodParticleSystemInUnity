@@ -20,10 +20,7 @@
 
 8. Rate over time = 0
 
-9. New Burst :
-    - time = 0
-    - min = 50
-    - max = 50
+9. New Burst : count = 50
 
 /Shape Tab/
 
@@ -31,7 +28,7 @@
 
 / Enable tab : Size Over Lifetime/
 
-11. Size = middle preset, from top to bottom
+11. Size = preset, from top to bottom
 
 / Enable Tab : Collision /
 
@@ -39,7 +36,7 @@
 
 13. Collision mode 2D
 
-14. Collision = Dampen
+14. Dampen = 1
 
 15. Bounce = 0
 
