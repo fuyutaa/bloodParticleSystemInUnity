@@ -42,6 +42,8 @@
 
 16. Radius Scale = 0.1
 
-/ Particle Emitter Tab /
+Problem fixes :
 
-17. Render : Layer sorting attribute higher
+A) Cannot see the particle in-game but in scene yes : the particle system Z axis is negative, set to 0.
+
+B) Cannot see still : go in / renderer tab / and set the order in layer to a higher one, corresponding to your needs.
