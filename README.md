@@ -2,7 +2,7 @@
  
 /Main Tab/
 
-1. Make a new particle system.
+1. Make a new particle system : Right click -) Effects -) Particle System
 
 2. Looping disabled.
 
